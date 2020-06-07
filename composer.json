@@ -1,8 +1,8 @@
 {
-    "name": "johntaa/ar-php",
-    "description": "contribution to Ar-PHP Library, namespace-psr4 added",
+    "name": "ibrahem-kamal/ar-php",
+    "description": "just a fork from Johntaa/ar-php to fix minor bugs",
      
-    "homepage": "https://github.com/Johntaa/ar-php",
+    "homepage": "https://github.com/ibrahem-kamal/ar-php",
     "license": "LGPL-3.0",
     "authors": [
 		{
@@ -13,6 +13,10 @@
         {
             "name": ":johntaa",
             "email": "fccffccffccf@yahoo.com" 
+        },
+        {
+            "name": ":ibrahem kamal",
+            "email": "ibrahem.kamal70@gmail.com" 
         }
     ],
     "require": { 
